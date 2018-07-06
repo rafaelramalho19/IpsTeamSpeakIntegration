@@ -1,8 +1,4 @@
 {
-    "hookCssJs": {
-        "type": "C",
-        "class": "\\IPS\\Dispatcher\\Standard"
-    },
     "uuid_on_register": {
         "type": "C",
         "class": "\\IPS\\core\\modules\\front\\system\\register"

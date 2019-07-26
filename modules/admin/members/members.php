@@ -70,7 +70,7 @@ class _Members extends \IPS\Dispatcher\Controller
             {
                 try
                 {
-                    $member = htmlentities( \IPS\Member::load( $val )->name, \IPS\HTMLENTITIES, 'UTF-8', FALSE );
+                    $member = htmlentities( \IPS\Member::load( $val )->name, ENT_QUOTES, 'UTF-8', FALSE );
 
                     return $member;
                 }

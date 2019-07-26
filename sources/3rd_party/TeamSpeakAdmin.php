@@ -3,7 +3,7 @@
  *                         ts3admin.class.php
  *                         ------------------                    
  *   created              : 18. December 2009
- *   last modified        : 04. November 2016
+ *   last modified        : 26. July 2019
  *   version              : 1.0.1.9
  *   website              : http://ts3admin.info
  *   copyright            : (C) 2016 Stefan Zehnpfennig
